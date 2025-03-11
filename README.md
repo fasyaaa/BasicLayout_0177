@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # BasicLayout_0177
+
+**RESULT**
+![Screenshot_1741715639](https://github.com/user-attachments/assets/634d61b6-9c9d-4847-b076-578a302b3cac)
